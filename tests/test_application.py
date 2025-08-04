@@ -1,6 +1,3 @@
-
-
-
 from src.main import sum_two
 
 def test_hello_thing():
